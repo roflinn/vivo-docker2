@@ -1,4 +1,4 @@
-# Dockerized VIVO
+# Dockerized VIVO 
 
 This project creates three dockerized containers,
 - `vivo` The vivo instance
